@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm **Aarón Sosa** (*a.k.a. aasoru*).
+
+Senior Developer that works on what he loves with more than 9 years of experience.
+
+You can follow me at my LinkedIn: https://www.linkedin.com/in/aaron-sosa-ruiz
+
 <!--
 **aasoru/aasoru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
