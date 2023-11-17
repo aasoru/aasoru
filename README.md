@@ -21,4 +21,8 @@
 <img src="assets/icons/mysql.svg" width="38" title="MySQL"/>
 <img src="assets/icons/mongodb.svg" width="38" title="MongoDB"/>
 
+<h2 align="center">Top Languages</h2>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aasoru&theme=dracula)
+
 </div>
