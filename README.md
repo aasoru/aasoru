@@ -1,22 +1,21 @@
 ### Hi there 👋
 
-I'm **Aarón Sosa** (*a.k.a. aasoru*).
+I'm **Aarón Sosa** (_a.k.a. aasoru_).
 
-Senior Developer that works on what he loves with more than 9 years of experience.
+I'm a passionate Web Developer specializing in backend and frontend development with technologies like <strong>Laravel, React, Nextjs, and Tailwind</strong>. Currently, I'm learning and improving in backend development, with technologies like <strong>Node.js, MySQL, MongoDB and many others</strong>.
+
+<h2 align="center">Skills</h2>
+<img src="assets/icons/html.svg" width="40" title="HTML"/>
+<img src="assets/icons/css.svg" width="40" title="CSS"/>
+<img src="assets/icons/javascript.svg" width="37" title="JavaScript"/>
+<img src="assets/icons/react.svg" width="40" title="React"/>
+<img src="assets/icons/nextjs.svg" width="40" title="NextJS"/>
+<img src="assets/icons/sass.svg" width="45" title="Sass"/>
+<img src="assets/icons/tailwind.svg" width="40" title="Tailwind"/>
+<img src="assets/icons/bootstrap.svg" width="44" title="Bootstrap"/>
+<img src="assets/icons/laravel.svg" width="37" title="Laravel"/>
+<img src="assets/icons/node.svg" width="45" title="NodeJS"/>
+<img src="assets/icons/mysql.svg" width="38" title="MySQL"/>
+<img src="assets/icons/mongobg.svg" width="38" title="MongoDB"/>
 
 You can follow me at my LinkedIn: https://www.linkedin.com/in/aaron-sosa-ruiz
-
-<!--
-**aasoru/aasoru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
