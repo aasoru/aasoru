@@ -1,8 +1,11 @@
-### Hi there 👋
+<div align="center">
 
-I'm **Aarón Sosa** (_a.k.a. aasoru_).
+<h1>Hi there 👋</h1>
 
-I'm a passionate Web Developer specializing in backend and frontend development with technologies like <strong>Laravel, React, Nextjs, and Tailwind</strong>. Currently, I'm learning and improving in backend development, with technologies like <strong>Node.js, MySQL, MongoDB and many others</strong>.
+<h2>I'm **Aarón Sosa** (_a.k.a. aasoru_).</h2>
+
+<p>I'm a passionate Web Developer specializing in backend and frontend development with technologies like <strong>Laravel, React, Nextjs, and Tailwind</strong>. Currently, I'm learning and improving in backend development, with technologies like <strong>Node.js, MySQL, MongoDB and many others</strong>.
+</p>
 
 <h2 align="center">Skills</h2>
 <img src="assets/icons/html.svg" width="40" title="HTML"/>
@@ -18,4 +21,4 @@ I'm a passionate Web Developer specializing in backend and frontend development 
 <img src="assets/icons/mysql.svg" width="38" title="MySQL"/>
 <img src="assets/icons/mongobg.svg" width="38" title="MongoDB"/>
 
-You can follow me at my LinkedIn: https://www.linkedin.com/in/aaron-sosa-ruiz
+</div>
