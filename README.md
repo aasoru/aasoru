@@ -19,6 +19,6 @@
 <img src="assets/icons/laravel.svg" width="37" title="Laravel"/>
 <img src="assets/icons/node.svg" width="45" title="NodeJS"/>
 <img src="assets/icons/mysql.svg" width="38" title="MySQL"/>
-<img src="assets/icons/mongobg.svg" width="38" title="MongoDB"/>
+<img src="assets/icons/mongodb.svg" width="38" title="MongoDB"/>
 
 </div>
