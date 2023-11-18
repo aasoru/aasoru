@@ -20,6 +20,7 @@
 <img src="assets/icons/node.svg" width="45" title="NodeJS"/>
 <img src="assets/icons/mysql.svg" width="38" title="MySQL"/>
 <img src="assets/icons/mongodb.svg" width="38" title="MongoDB"/>
+<img src="assets/icons/docker.svg" width="38" title="Docker"/>
 
 <h2 align="center">Top Languages</h2>
 
