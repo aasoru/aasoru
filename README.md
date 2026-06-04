@@ -26,7 +26,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aasoru&theme=dracula)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aasoru)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=aasoru)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
